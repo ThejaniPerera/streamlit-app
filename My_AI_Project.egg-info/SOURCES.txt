@@ -1,0 +1,7 @@
+setup.py
+My_AI_Project.egg-info/PKG-INFO
+My_AI_Project.egg-info/SOURCES.txt
+My_AI_Project.egg-info/dependency_links.txt
+My_AI_Project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
